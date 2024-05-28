@@ -1,2 +1,5 @@
 # VeriTech-Internship-Task-2
-In this repo, The task involves creating a compelling Landing Page. The goal is to choose a  design and theme that resonates with you, and develop a landing page for an event or launch.  This could be related to a car launch, product unveiling, course introduction, university  promotion, or any other topic of your choice.
+# Overview
+This project is a Task 2 card landing page developed using HTML, CSS, and Bootstrap, with a focus on desktop design. It showcases my skills in web development and design, serving as a demonstration of my proficiency in front-end technologies.
+# Features
+Features Responsive design optimized for desktop viewing Utilizes HTML, CSS, and Bootstrap for layout and styling Clean and modern UI design
