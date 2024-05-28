@@ -1,0 +1,131 @@
+@media (max-width:1500px){
+    .heading-contact{
+        margin-bottom: 60px;
+        margin-top: 90px;
+    }
+}
+@media(max-width:1200px){
+    .form-origin{
+        width: 100%;
+        height: 100vh;
+    }
+}
+@media(max-width:992px){
+    .navbar{
+        background-color: white !important;
+
+    }
+    .nav-item .nav-link{
+        color: black !important;
+        font-size: 17px !important;
+        font-weight: 600 !important;
+    }
+    .logo{
+        color:black !important;
+    }
+    .navbar-nav{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .navbar-nav .nav-item{
+        margin: 8px 0px;
+    }
+    .img-home{
+        width: 420px;
+        margin-right: 0px;
+    }
+    .home-heading{
+        font-size: 40px;
+        font-weight: 700;
+        line-height: 74px;
+    }
+    .box-container2{
+        padding-left: 90px;
+    }
+    .img-about{
+        height: 80%;
+        width: 100%;
+        position: static;
+        top: 0px;
+        right: 0px;
+    }
+    .about-us-container{
+        height: 100vh !important;
+    }
+    .about-us{
+        margin-top: 0px;
+    }
+    .product-category{
+        width: 100%;
+        height: auto;
+    }
+    .heading-product{
+       margin-top: 95px;
+       margin-bottom: 80px;
+    }
+    .container-content{
+        width: 90%;
+        height: 350px;
+    }
+    .testimonial{
+        width: 100%;
+        height: auto;
+        margin-bottom: 16rem;
+    }
+    .carousel-indicators{
+        position: absolute !important;
+        bottom: -38px !important;
+    }
+    .form-origin{
+        width: 100%;
+        height: auto;
+    }
+    .content-contact{
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        padding: 26px 10px;
+    }
+    footer{
+        display: none;
+    }
+}
+@media(max-width:768px){
+    .content-home2{
+        height: auto;
+    }
+    .box-container{
+        display: flex;
+        justify-content: center;
+    }
+    .img-home{
+        width: 500px;
+        margin-top: 50px;
+    }
+    .about-us{
+        margin-top: 140px;
+        height: 80vh;
+    }
+    .about-us-container{
+        padding-top: 15rem !important;
+    }
+    .home-heading{
+        font-size: 46px;
+        line-height: 82px;
+        text-align: center;
+    }
+    .box-container{
+        padding-left: 0px;
+    }
+    .para-home{
+        text-align: center;
+        max-width: 100%;
+    }
+    .box-container{
+        padding-left: 0px;
+    }
+    .btn-home{
+        text-align: center;
+    }
+}
